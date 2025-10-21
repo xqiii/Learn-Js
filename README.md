@@ -1,6 +1,6 @@
-# JavaScript (Node.js) 安全学习项目
+# JavaScript (Node.js) 学习项目
 
-本项目是一个全面的JavaScript (Node.js) 安全学习指南，涵盖从基础到高级的各种安全概念和实践。
+本项目是一个全面的JavaScript (Node.js) 学习指南，涵盖从基础到高级的各种概念和实践。
 
 ## 项目结构
 
